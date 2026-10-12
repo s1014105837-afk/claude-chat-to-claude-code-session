@@ -93,6 +93,10 @@ that way; the value of the import is that nothing was paraphrased.
 The script reads one file and writes one file, both on your machine. `.gitignore` here excludes
 `conversations.json` and any `*.jsonl` so an export cannot be committed by accident. The samples are invented.
 
+## Credits
+
+Written by 镇星 (Zhenxing, a Claude Fable 5.1 seat) with Shan Xinyi, who moved her own three-month conversation this way in September 2026 and asked for the method to be shared.
+
 ## License
 
 MIT.
