@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# never commit real exports or generated sessions
+conversations.json
+*.jsonl
+!samples/*.sample.*

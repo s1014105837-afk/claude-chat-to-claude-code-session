@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "0f3c2a9e-1111-4d2b-9c7e-sample000001",
+    "name": "Garden planning",
+    "created_at": "2026-03-02T08:10:00.000000Z",
+    "updated_at": "2026-03-03T19:42:11.000000Z",
+    "chat_messages": [
+      {"uuid": "m1", "sender": "human", "created_at": "2026-03-02T08:10:05.000000Z", "text": "I want to grow tomatoes on a north-facing balcony in Hamburg. Is that hopeless?", "content": [{"type": "text", "text": "I want to grow tomatoes on a north-facing balcony in Hamburg. Is that hopeless?"}]},
+      {"uuid": "m2", "sender": "assistant", "created_at": "2026-03-02T08:10:21.000000Z", "text": "Not hopeless, but pick your battles. North-facing in Hamburg means maybe 3–4 hours of indirect light in summer. Cherry and currant tomatoes tolerate that far better than large slicing varieties. Use the lightest-coloured wall you have as a reflector and keep the pots as close to the railing as possible.", "content": [{"type": "text", "text": "Not hopeless, but pick your battles. North-facing in Hamburg means maybe 3–4 hours of indirect light in summer. Cherry and currant tomatoes tolerate that far better than large slicing varieties. Use the lightest-coloured wall you have as a reflector and keep the pots as close to the railing as possible."}]},
+      {"uuid": "m3", "sender": "human", "created_at": "2026-03-02T08:12:40.000000Z", "text": "Which varieties, concretely?", "content": [{"type": "text", "text": "Which varieties, concretely?"}]},
+      {"uuid": "m4", "sender": "assistant", "created_at": "2026-03-02T08:12:58.000000Z", "text": "Three that people report doing well in low light: 'Red Robin' (dwarf, 30 cm), 'Tumbling Tom' (trailing, good for a railing box), and 'Zuckertraube' (a German cherry type that ripens early). Start them indoors in early April.", "content": [{"type": "text", "text": "Three that people report doing well in low light: 'Red Robin' (dwarf, 30 cm), 'Tumbling Tom' (trailing, good for a railing box), and 'Zuckertraube' (a German cherry type that ripens early). Start them indoors in early April."}]},
+      {"uuid": "m5", "sender": "human", "created_at": "2026-03-03T19:40:02.000000Z", "text": "我决定种 Zuckertraube 和 Tumbling Tom。花盆要多大?", "content": [{"type": "text", "text": "我决定种 Zuckertraube 和 Tumbling Tom。花盆要多大?"}]},
+      {"uuid": "m6", "sender": "assistant", "created_at": "2026-03-03T19:42:11.000000Z", "text": "Zuckertraube 至少 15 升一株,Tumbling Tom 放栏杆箱里 8–10 升就够。两种都别和别的植物挤一个盆,北阳台光已经少了,根再抢水就更慢。记得我们说的:盆贴着栏杆放。", "content": [{"type": "text", "text": "Zuckertraube 至少 15 升一株,Tumbling Tom 放栏杆箱里 8–10 升就够。两种都别和别的植物挤一个盆,北阳台光已经少了,根再抢水就更慢。记得我们说的:盆贴着栏杆放。"}]}
+    ]
+  },
+  {
+    "uuid": "7b81d4c0-2222-4e0a-8a11-sample000002",
+    "name": "Short unrelated chat",
+    "created_at": "2026-03-05T10:00:00.000000Z",
+    "updated_at": "2026-03-05T10:01:00.000000Z",
+    "chat_messages": [
+      {"uuid": "n1", "sender": "human", "created_at": "2026-03-05T10:00:00.000000Z", "text": "What's 17 × 23?", "content": [{"type": "text", "text": "What's 17 × 23?"}]},
+      {"uuid": "n2", "sender": "assistant", "created_at": "2026-03-05T10:00:03.000000Z", "text": "391.", "content": [{"type": "text", "text": "391."}]}
+    ]
+  }
+]
