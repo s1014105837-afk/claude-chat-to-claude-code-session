@@ -77,7 +77,7 @@ The script refuses to overwrite an existing file and never touches your other se
 - **Consecutive messages from the same side are joined** (a blank line between them) because the API needs
   strict alternation. Wording is unchanged.
 - **The JSONL layout is Claude Code's internal format, not a published API.** It was taken from real session
-  files of Claude Code 2.1.258–2.1.295 (Windows, desktop app and CLI) and tested with the CLI. A future version
+  files of Claude Code 2.1.258–2.1.295 (Windows, desktop app and CLI) and verified on 2026-10-12 with Claude Code CLI 2.1.281 (both sample inputs resumed and answered from the imported turns). A future version
   may change the fields; if `--resume` stops accepting generated files, open an issue with your `claude --version`.
 - **Model names are stamped, not verified.** Pass `--model` if you care what the file says.
 
