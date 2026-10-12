@@ -1,4 +1,4 @@
-# chat-to-code-session
+# claude-chat-to-claude-code-session
 
 Continue a claude.ai conversation inside Claude Code, with every message kept word for word.
 

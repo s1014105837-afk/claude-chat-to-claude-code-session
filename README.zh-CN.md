@@ -1,4 +1,4 @@
-# chat-to-code-session
+# claude-chat-to-claude-code-session
 
 把 claude.ai 上的一段对话原样接到 Claude Code 里继续聊,一个字不改。
 

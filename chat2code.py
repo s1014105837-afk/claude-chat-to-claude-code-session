@@ -227,7 +227,7 @@ def main() -> int:
     ap.add_argument("--entrypoint", default="cli", help="entrypoint field (cli or claude-desktop)")
     ap.add_argument("--session-id", default=None, help="use this session id instead of a fresh uuid4")
     ap.add_argument("--out", default=None, help="write the JSONL here instead of into the projects folder (dry run)")
-    ap.add_argument("--repo", default="s1014105837-afk/chat-to-code-session", help="repo url slug written into the header")
+    ap.add_argument("--repo", default="s1014105837-afk/claude-chat-to-claude-code-session", help="repo url slug written into the header")
     args = ap.parse_args()
 
     src = Path(args.input)
